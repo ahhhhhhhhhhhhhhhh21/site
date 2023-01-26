@@ -1,0 +1,33 @@
+
+				h1{font-size:35px;
+					color:   	#2aceb8;}
+				h2{font-size: 35px;color:  #c6faa1;}
+
+					.big {font-size: 35px;
+					color: lightyellow;
+				text-transform: uppercase;}
+					.small {
+					font-size: 27.5px; 
+					color: darkred;
+					text-transform: lowercase;
+				}
+
+					.links {font-size: 20px; 
+					color: #6de29f;
+					text-transform:uppercase; }
+
+
+
+
+
+					body{
+				background-color: white;
+				background-image: url() ;
+				background-size: 1080px;
+			}
+
+
+
+
+
+			
